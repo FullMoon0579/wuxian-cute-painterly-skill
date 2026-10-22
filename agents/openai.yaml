@@ -1,0 +1,4 @@
+interface:
+  display_name: "无线搞可爱风"
+  short_description: "批量生成粗颗粒手绘可爱角色插画风格"
+  default_prompt: "使用无线搞可爱风绘制：{{主题}}。保留粗糙数字手绘、几何大色块、夸张可爱比例和高饱和背景。"
